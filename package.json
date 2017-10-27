@@ -1,0 +1,23 @@
+{
+  "name": "promises.nor",
+  "version": "1.0.0",
+  "description": "Review Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estigmata/promises.git"
+  },
+  "keywords": [
+    "Promises",
+    "JavaScript"
+  ],
+  "author": "Nestor Otondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estigmata/promises/issues"
+  },
+  "homepage": "https://github.com/estigmata/promises#readme"
+}
